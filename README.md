@@ -3,18 +3,30 @@
 
 
 Ferramentas utilizadas:
+
 🔹 Figma
+
 🔹 Git
+
 🔹 Github
+
 🔹 VSCode
 
+
 Fases:
+
 🔹 Construção do framework no Figma;
+
 🔹 Construção do index.html;
+
 🔹 Construção do style.css;
+
 🔹 Construção do validacao.js;
+
 🔹 Criação repositório no Github;
+
 🔹 Realização do deploy.
+
 
 Links:
 
