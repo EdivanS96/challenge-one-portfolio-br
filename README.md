@@ -6,7 +6,7 @@ Ferramentas utilizadas:
 
 🔹 Figma
 
-🔹 Git
+🔹 Trello
 
 🔹 Github
 
